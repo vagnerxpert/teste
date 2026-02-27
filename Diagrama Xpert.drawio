@@ -169,6 +169,18 @@
         <mxCell id="eE16qiywdM9TNWLf6toM-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;192.168.1.24&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="-705" y="250" as="geometry" />
         </mxCell>
+        <mxCell id="eE16qiywdM9TNWLf6toM-43" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="-335" y="131" as="geometry" />
+        </mxCell>
+        <mxCell id="eE16qiywdM9TNWLf6toM-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.111" vertex="1">
+          <mxGeometry height="30" width="100" x="-340" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="eE16qiywdM9TNWLf6toM-46" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="-145" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eE16qiywdM9TNWLf6toM-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.83" vertex="1">
+          <mxGeometry height="30" width="90" x="-155" y="225" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
