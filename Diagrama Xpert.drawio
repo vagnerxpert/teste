@@ -181,6 +181,15 @@
         <mxCell id="eE16qiywdM9TNWLf6toM-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.83" vertex="1">
           <mxGeometry height="30" width="90" x="-155" y="225" as="geometry" />
         </mxCell>
+        <mxCell id="eE16qiywdM9TNWLf6toM-50" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" value="" vertex="1">
+          <mxGeometry height="35" width="100" x="165" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eE16qiywdM9TNWLf6toM-51" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" value="" vertex="1">
+          <mxGeometry height="35" width="100" x="470" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="eE16qiywdM9TNWLf6toM-52" parent="1" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_96_ports;" value="" vertex="1">
+          <mxGeometry height="60" width="160" x="-30" y="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
