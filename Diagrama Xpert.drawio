@@ -23,7 +23,7 @@
           <mxGeometry height="80" width="80" x="-40" y="-840" as="geometry" />
         </mxCell>
         <mxCell id="dJKOryAmE6O-seWz04QC-9" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-70" y="710" as="geometry" />
+          <mxGeometry height="80" width="80" x="-535" y="130" as="geometry" />
         </mxCell>
         <mxCell id="dJKOryAmE6O-seWz04QC-11" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="-55" y="-570" as="geometry" />
@@ -68,10 +68,10 @@
           <mxGeometry height="30" width="60" x="-20" y="-702" as="geometry" />
         </mxCell>
         <mxCell id="dJKOryAmE6O-seWz04QC-37" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Nginx" vertex="1">
-          <mxGeometry height="40" width="100" x="-80" y="791" as="geometry" />
+          <mxGeometry height="40" width="100" x="-545" y="211" as="geometry" />
         </mxCell>
         <mxCell id="dJKOryAmE6O-seWz04QC-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.132" vertex="1">
-          <mxGeometry height="30" width="90" x="-75" y="830" as="geometry" />
+          <mxGeometry height="30" width="90" x="-540" y="250" as="geometry" />
         </mxCell>
         <mxCell id="dJKOryAmE6O-seWz04QC-39" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Web_App_Firewall.svg;" value="" vertex="1">
           <mxGeometry height="85" width="85" x="-660" y="-570" as="geometry" />
@@ -136,92 +136,38 @@
         <mxCell id="eE16qiywdM9TNWLf6toM-13" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="80" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-14" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
+        <mxCell id="eE16qiywdM9TNWLf6toM-14" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Licenças Delphi" vertex="1">
           <mxGeometry height="40" width="100" x="70" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="70" y="40" as="geometry" />
+        <mxCell id="eE16qiywdM9TNWLf6toM-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.16" vertex="1">
+          <mxGeometry height="30" width="90" x="75" y="40" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-16" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="290" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-17" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
+        <mxCell id="eE16qiywdM9TNWLf6toM-17" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Cloud" vertex="1">
           <mxGeometry height="40" width="100" x="280" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
+        <mxCell id="eE16qiywdM9TNWLf6toM-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.120" vertex="1">
           <mxGeometry height="30" width="100" x="280" y="40" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-19" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="490" y="-80" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-20" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
+        <mxCell id="eE16qiywdM9TNWLf6toM-20" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Web" vertex="1">
           <mxGeometry height="40" width="100" x="480" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="480" y="40" as="geometry" />
+        <mxCell id="eE16qiywdM9TNWLf6toM-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.19" vertex="1">
+          <mxGeometry height="30" width="90" x="485" y="40" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-22" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="-700" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-23" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
+        <mxCell id="eE16qiywdM9TNWLf6toM-23" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="FTP" vertex="1">
           <mxGeometry height="40" width="100" x="-710" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="-710" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-25" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-530" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-26" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
-          <mxGeometry height="40" width="100" x="-540" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="-540" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-28" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-330" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-29" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
-          <mxGeometry height="40" width="100" x="-340" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="-340" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-31" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-145" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-32" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
-          <mxGeometry height="40" width="100" x="-155" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="-155" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-34" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="80" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-35" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
-          <mxGeometry height="40" width="100" x="70" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="70" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-37" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="290" y="130" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-38" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
-          <mxGeometry height="40" width="100" x="280" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="280" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-40" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="510" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-41" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Gitlab" vertex="1">
-          <mxGeometry height="40" width="100" x="500" y="200" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.246" vertex="1">
-          <mxGeometry height="30" width="100" x="500" y="240" as="geometry" />
+        <mxCell id="eE16qiywdM9TNWLf6toM-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div&gt;192.168.1.24&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="-705" y="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
