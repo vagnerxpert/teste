@@ -216,21 +216,6 @@
         <mxCell id="eE16qiywdM9TNWLf6toM-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.111" vertex="1">
           <mxGeometry height="30" width="100" x="-157" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-46" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-245" y="1379" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="192.168.1.83" vertex="1">
-          <mxGeometry height="30" width="90" x="-255" y="1474" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-50" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" value="" vertex="1">
-          <mxGeometry height="35" width="100" x="65" y="1419" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-51" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.patch_panel;" value="" vertex="1">
-          <mxGeometry height="35" width="100" x="370" y="1419" as="geometry" />
-        </mxCell>
-        <mxCell id="eE16qiywdM9TNWLf6toM-52" parent="1" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_96_ports;" value="" vertex="1">
-          <mxGeometry height="60" width="160" x="-130" y="1519" as="geometry" />
-        </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-68" edge="1" parent="1" source="dJKOryAmE6O-seWz04QC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.043;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" target="dJKOryAmE6O-seWz04QC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
