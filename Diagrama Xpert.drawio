@@ -220,7 +220,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-79" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Infraestutura - Físicos" vertex="1">
-          <mxGeometry height="40" width="100" x="-706.5" y="-150" as="geometry" />
+          <mxGeometry height="40" width="100" x="-653" y="-149" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-80" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Neteye" vertex="1">
           <mxGeometry height="40" width="100" x="-85.5" y="-20" as="geometry" />
@@ -247,10 +247,10 @@
           <mxGeometry height="30" width="100" x="533.5" y="32" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-108" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Proxmox02 - Virtuais" vertex="1">
-          <mxGeometry height="40" width="100" x="-711.5" y="251" as="geometry" />
+          <mxGeometry height="40" width="100" x="-653" y="240" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-122" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Proxmox00 - Virtuais" vertex="1">
-          <mxGeometry height="40" width="100" x="-230" y="251" as="geometry" />
+          <mxGeometry height="40" width="100" x="-173" y="240" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-123" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="251.5" y="70" as="geometry" />
