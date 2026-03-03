@@ -211,10 +211,10 @@
           <mxGeometry height="30" width="90" x="-464.5" y="411" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-43" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="-94.5" y="-100" as="geometry" />
+          <mxGeometry height="80" width="80" x="-75.5" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="192.168.1.111" vertex="1">
-          <mxGeometry height="30" width="100" x="-99.5" y="20" as="geometry" />
+          <mxGeometry height="30" width="100" x="-80.5" y="20" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-68" edge="1" parent="1" source="dJKOryAmE6O-seWz04QC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.043;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" target="dJKOryAmE6O-seWz04QC-1">
           <mxGeometry relative="1" as="geometry" />
@@ -223,28 +223,28 @@
           <mxGeometry height="40" width="100" x="-706.5" y="-150" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-80" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Neteye" vertex="1">
-          <mxGeometry height="40" width="100" x="-104.5" y="-20" as="geometry" />
+          <mxGeometry height="40" width="100" x="-85.5" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-96" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Desenvolvimento - Físicos" vertex="1">
           <mxGeometry height="40" width="100" x="334.5" y="-149" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-98" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="368.5" y="-100" as="geometry" />
+          <mxGeometry height="80" width="80" x="389.5" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-99" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Releases" vertex="1">
-          <mxGeometry height="40" width="100" x="362.5" y="-11" as="geometry" />
+          <mxGeometry height="40" width="100" x="383.5" y="-11" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-100" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="192.168.1.83" vertex="1">
-          <mxGeometry height="30" width="90" x="366.5" y="32" as="geometry" />
+          <mxGeometry height="30" width="90" x="387.5" y="32" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-101" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;labelBackgroundColor=none;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="508.5" y="-100" as="geometry" />
+          <mxGeometry height="80" width="80" x="540.5" y="-100" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-102" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Servidor VM" vertex="1">
-          <mxGeometry height="40" width="100" x="502.5" y="-11" as="geometry" />
+          <mxGeometry height="40" width="100" x="534.5" y="-11" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontSize=23;" value="192.168.1.111" vertex="1">
-          <mxGeometry height="30" width="100" x="501.5" y="32" as="geometry" />
+          <mxGeometry height="30" width="100" x="533.5" y="32" as="geometry" />
         </mxCell>
         <mxCell id="eE16qiywdM9TNWLf6toM-108" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="Proxmox02 - Virtuais" vertex="1">
           <mxGeometry height="40" width="100" x="-711.5" y="251" as="geometry" />
